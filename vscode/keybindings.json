@@ -1,0 +1,32 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+  "key": "ctrl+shift+l",
+  "command": "editor.action.insertSnippet",
+  "when": "editorTextFocus",
+  "args": {
+    "snippet": "console.log(${TM_SELECTED_TEXT}$1)$2"
+  },
+},
+{
+  "key": "ctrl+shift+j",
+  "command": "editor.action.insertSnippet",
+  "when": "editorTextFocus",
+  "args": {
+    "snippet": "console.log(JSON.stringify(${TM_SELECTED_TEXT})$1)$2"
+  },
+},
+{
+  "key": "cmd+d",
+  "command": "editor.action.copyLinesDownAction",
+  "when": "editorTextFocus && !editorReadonly"
+},
+{
+  "key": "ctrl+escape",
+  "command": "workbench.action.selectTheme"
+},
+{
+  "key": "ctrl+`",
+  "command": "-workbench.action.selectTheme"
+}
+]
