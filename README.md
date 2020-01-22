@@ -1,13 +1,13 @@
 # dev-helper
 Centralized location for my dev tool config files
 
+## vscode
+
+- `vscode` settings are managed by the extension Settings Sync in the following [cloudSettings gist](https://gist.github.com/mtalebi/0364536f2839336ed3695387582094fd)
+
 ## iterm2
 
 - `Default.json` contains my preferred profile coloring in iterm2
-
-## vscode
-
-- `vscode` contains `settings.json` and `keybindings.json`, but [cloudSettings gist](https://gist.github.com/mtalebi/0364536f2839336ed3695387582094fd) contains these preferences as well as extensions
 
 ## zprezto
 
