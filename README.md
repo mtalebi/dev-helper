@@ -12,3 +12,7 @@ Centralized location for my dev tool config files
 ## zprezto
 
 - `zpreztorc` contains my preferred [prezto](https://github.com/sorin-ionescu/prezto) modules and prompt theme
+
+## keyboard firmware
+
+- `kbd67v2`keyboard firmware hex and json. [kbfirmware.com](https://kbfirmware.com)
