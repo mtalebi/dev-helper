@@ -27,3 +27,7 @@ Centralized location for my dev tool config files
 ## zprezto
 
 - `zpreztorc` contains my preferred [prezto](https://github.com/sorin-ionescu/prezto) modules and prompt theme
+
+## Screensavers
+
+- [RedPill](https://github.com/lpar/RedPill)
