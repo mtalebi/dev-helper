@@ -1,0 +1,32 @@
+cask_args appdir: "/Applications"
+
+brew "git"
+brew "mas"
+brew "node"
+
+cask "alfred"
+cask "calibre"
+cask "discord"
+cask "google-chrome"
+cask "handbrake"
+cask "iterm2"
+cask "jdownloader"
+cask "lastpass"
+cask "plex"
+cask "slack"
+cask "steam"
+cask "textmate"
+cask "via"
+cask "visual-studio-code"
+cask "vlc"
+
+mas "Kindle", id: 405399194
+mas "StuffIt Expander", id: 405580712
+mas "FLAC MP3 Converter", id: 982124349
+mas "GIPHY CAPTURE", id: 668208984
+mas "RAR Extractor Lite", id: 646295438
+mas "Keka", id: 470158793
+mas "Slack", id: 803453959
+mas "Pages", id: 409201541
+mas "Textual IRC Client", id: 1262957439
+mas "Numbers", id: 409203825
